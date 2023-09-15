@@ -1,2 +1,4 @@
-package bridge.Controller;public class Controller {
+package bridge.Controller;
+
+public class Controller {
 }

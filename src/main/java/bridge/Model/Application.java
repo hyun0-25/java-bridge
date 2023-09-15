@@ -1,4 +1,6 @@
-package bridge;
+package bridge.Model;
+
+import bridge.Model.BridgeGame;
 
 public class Application {
 

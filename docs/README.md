@@ -38,7 +38,7 @@
                 - [ ]  출력: `총 시도한 횟수: 값`
 
 # 클래스 및 함수
-
+## Model
 - Application
     - main()
         - 프로그램 실행
@@ -56,7 +56,7 @@
 - BridgeNumberGenerator
     - generate()
 
-### View
+## View
 
 - InputView
     - readBridgeSize()
@@ -65,5 +65,10 @@
 - OutputView
     - printMap()
     - printResult()
+  
+## Controller
+
+- Controller
+
 
 # 예외처리
